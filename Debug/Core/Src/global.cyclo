@@ -1,0 +1,5 @@
+../Core/Src/global.c:19:6:start_UART_Receive_IT	1
+../Core/Src/global.c:23:6:HAL_UART_RxCpltCallback	3
+../Core/Src/global.c:32:6:init_PROGRAM	1
+../Core/Src/global.c:40:6:command_parser_fsm	5
+../Core/Src/global.c:61:6:uart_communication_fsm	9
